@@ -1,6 +1,6 @@
 package p1137_nthtribonaccinumber;
 
-class Solution {
+public class Solution {
     public int tribonacci(int n) {
         if(n <= 0) return 0;
         if(n <= 2) return 1;

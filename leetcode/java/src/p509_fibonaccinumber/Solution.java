@@ -1,6 +1,6 @@
 package p509_fibonaccinumber;
 
-class Solution {
+public class Solution {
     public int fib(int n) {
         if(n <= 0)
             return 0;

@@ -1,6 +1,6 @@
 package p070_climbingstairs;
 
-class Solution {
+public class Solution {
     public int climbStairs(int n) {
         if(n <= 1)
             return 1;

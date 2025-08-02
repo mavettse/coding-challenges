@@ -3,7 +3,7 @@ package p118_pascalstriangle;
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+public class Solution {
     public List<List<Integer>> generate(int numRows) {
         if(numRows == 0)
             return new ArrayList<>();

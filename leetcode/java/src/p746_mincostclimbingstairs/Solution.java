@@ -1,6 +1,6 @@
 package p746_mincostclimbingstairs;
 
-class Solution {
+public class Solution {
     public int minCostClimbingStairs(int[] cost) {
         int n = cost.length;
         int[] dp = new int[n];
