@@ -8,4 +8,4 @@ The solutions are organized by platform, then by language, to make navigation cl
 
 ### Currently working on:
 *   **Platforms:** LeetCode, Beecrowd
-*   **Languages:** Java, C
+*   **Languages:** C++, Java, C
